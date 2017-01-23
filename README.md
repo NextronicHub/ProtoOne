@@ -1,12 +1,12 @@
 # ProtoOne
 
 The protoOne is an Arduino Uno prototyping shield with a small soldering area, two general LEDs, Bluetooth Pinout, a general pushbutton switch, and the reset switch 
-this board is based on the sparkfun ProtoShield (http://www.sparkfun.com/products/11665) 
+<br />This board is based on the sparkfun ProtoShield (http://www.sparkfun.com/products/11665) 
 
 ##Repository Contents
 
 /Hardware - Design files (.brd, .sch)
-/Documentation - datasheet and examples
+<br />/Documentation - datasheet and examples
 
 ##Product Versions
 
